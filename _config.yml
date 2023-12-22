@@ -1,6 +1,6 @@
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/cultural-economics" # the subpath of your site, e.g. /blog
-# baseurl: ""
+# baseurl: "/cultural-economics" # the subpath of your site, e.g. /blog
+baseurl: ""
 title: "Cultural Economics" # the name of your site, e.g. ACME Corp.
 logo: "Cult/Econ"
 desc: "A collection of culturally important courses around home economics, small-scale production, and DIY."
