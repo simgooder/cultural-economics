@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <title>{{ page.title }} - {{ site.title }}</title>
+    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400;0,700;1,400;1,700&family=Caprasimo&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="container">
+        <h1>{{page.name}}</h1>
+        <ul>
+        {% for guide in site.guides %}
+           {% for skills in guide.skills %}
+                {% assign c = skills | slugify %}
+                {% assign page_slug = page.title | slugify %}
+                {% if c contains page_slug %}
+
+                <li>
+                    <a href="{{guide.url}}">
+                        {{guide.name}}
+                    </a>
+                </li>
+
+                {% endif %}
+           {% endfor %}
+        {% endfor %}
+        </ul>
+    </div>
+
+</body>

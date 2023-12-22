@@ -1,0 +1,33 @@
+---
+layout: default
+title: "Welcome to Cult/Ec"
+---
+<div class="hero-dark">
+    <div class="container">
+        <h1>{{site.title}}</h1>
+        <h2>
+            Guides, courses, & workshops to power the homescale production economy.
+        </h2>
+    </div>
+</div>
+
+<div class="container">
+
+    <div class="mar-v">
+    {% for skill in site.skills %}
+        <a class="tag" href="{{skill.url}}">{{skill.name}}</a>
+    {% endfor %}
+    </div>
+
+
+    <h2>Guides</h2>
+    <ul>
+    {% for guide in site.guides %}
+        <li>
+            <a href="{{ guide.url }}">{{ guide.name }}</a>
+        </li>
+    {% endfor %}
+    </ul>
+</div>
+
+{% include footer.html %}

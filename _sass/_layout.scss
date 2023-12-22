@@ -1,0 +1,28 @@
+.container {
+    max-width: 68.75rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+.container-sm {
+    max-width: 40rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mar-b {
+    margin-bottom: 1rem;
+}
+.mar-v {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.row {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: flex-start;
+}
