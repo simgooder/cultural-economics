@@ -1,0 +1,261 @@
+/* Reset */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body, p,
+figure, blockquote, dl, dd, ul[class],
+ol[class] {
+  margin: 0;
+}
+
+body {
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+html {
+  -moz-text-size-adjust: none;
+  -webkit-text-size-adjust: none;
+  text-size-adjust: none;
+}
+
+h1, h2, h3, h4,
+button, input, label {
+  line-height: 1.1;
+}
+
+h1, h2,
+h3, h4 {
+  text-wrap: balance;
+}
+
+p, h1, h2, h3, h4, h5, h6 {
+  overflow-wrap: break-word;
+}
+
+img, picture, video, canvas, svg {
+  display: block;
+  max-width: 100%;
+}
+
+input, button, textarea, select {
+  font: inherit;
+}
+
+:target {
+  scroll-margin-block: 5ex;
+}
+
+body {
+  --font: -apple-system, ".SFNSText-Regular", "San Francisco", "Oxygen", "Ubuntu", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
+  --font-body: "Cabin", serif;
+  --font-heading: "Caprasimo", serif;
+  --spacing: 1rem;
+  --rad: 0.5rem;
+  --rad-lg: 1rem;
+  --bp-xl: 1600px;
+  --bp-lg: 1200px;
+  --bp-md: 800px;
+  --bp-sm: 600px;
+  --bp-xs: 400px;
+  --c-white: #FAF7EE;
+  --c-black: #111;
+  --c-gray1: #ddd;
+  --c-gray2: #B2AF94;
+  --c-gray4: #666;
+  --c-pr-dark: #4F3B42;
+  --c-pr-2: #C16662;
+  --c-pr-3: #EAA548;
+  --c-pr-4: #74B26E;
+  --c-pr-5: #304033;
+  --c-border: var(--c-gray2);
+  font-family: var(--font-body);
+  background-color: var(--c-white);
+  font-size: 17px;
+}
+
+.container {
+  max-width: 68.75rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container-sm {
+  max-width: 40rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.mar-b {
+  margin-bottom: 1rem;
+}
+
+.mar-v {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.row {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: flex-start;
+}
+
+h1 {
+  font-size: 2rem;
+}
+@media screen and (min-width: 845px) {
+  h1 {
+    font-size: 3rem;
+  }
+}
+
+h1, h2 {
+  font-family: var(--font-heading);
+  font-weight: 400;
+  color: var(--c-pr-dark);
+  letter-spacing: 0.02rem;
+}
+
+a {
+  color: var(--c-pr-5);
+}
+
+a:hover {
+  color: var(--c-pr-4);
+}
+
+p a,
+small a {
+  color: var(--c-pr-2);
+}
+
+.text-center {
+  text-align: center;
+}
+
+.tag {
+  display: inline-block;
+  background-color: var(--c-pr-2);
+  border-radius: var(--rad-lg);
+  color: var(--c-white);
+  text-decoration: none;
+  padding: 0.25rem 1rem;
+  margin-bottom: 0.5rem;
+  margin-right: 0.5rem;
+  white-space: nowrap;
+  transition: 0.15s ease;
+}
+
+.tag:hover {
+  background-color: var(--c-pr-dark);
+  color: var(--c-white);
+}
+
+.page-cover {
+  overflow: hidden;
+  background-color: var(--c-gray2);
+}
+
+.page-cover img {
+  margin: 0 auto;
+  max-height: 20rem;
+}
+
+.hero-dark {
+  padding: 1rem 1rem;
+  background-color: var(--c-pr-dark);
+}
+.hero-dark h1 {
+  color: var(--c-white);
+}
+.hero-dark h2 {
+  color: var(--c-pr-3);
+}
+
+.btn-primary {
+  display: inline-block;
+  padding: 0.85rem 1.5rem;
+  border-radius: var(--rad);
+  background-color: var(--c-pr-4);
+  color: var(--c-white);
+  font-weight: 600;
+  text-decoration: none;
+  transition: 0.15s ease;
+}
+
+.btn-primary:hover {
+  background-color: var(--c-pr-5);
+  color: var(--c-white);
+}
+
+.embed-container {
+  max-width: 60rem;
+  margin: 0 auto;
+}
+
+.embed {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+}
+
+.embed iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.footer {
+  margin-top: 4rem;
+  padding: 1rem;
+}
+
+.media-card {
+  width: 100%;
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.media-img {
+  background-color: var(--c-gray2);
+  text-align: center;
+  width: 100%;
+  max-height: 20rem;
+  overflow: hidden;
+}
+@media screen and (min-width: 845px) {
+  .media-img {
+    width: 30%;
+    max-height: 100%;
+    min-height: 100vh;
+    padding: 1rem;
+  }
+}
+.media-img img {
+  display: inline-block;
+  object-fit: contain;
+  max-height: 100%;
+}
+
+.media-content {
+  padding: 1rem;
+  max-width: 40rem;
+}
+@media screen and (min-width: 845px) {
+  .media-content {
+    width: 70%;
+    padding-left: 3rem;
+  }
+}
+
+/*# sourceMappingURL=main.css.map */
