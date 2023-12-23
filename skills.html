@@ -7,7 +7,7 @@ title: "All skills"
     <div class="mar-v">
         <h1>Skills</h1>
         {% for skill in site.skills %}
-          <a class="tag" href="{{skill.url}}">{{ skill.name }}</a>
+          <a class="tag" href="{{site.baseurl}}{{skill.url}}">{{ skill.name }}</a>
         {% endfor %}
       </div>
 </div>
