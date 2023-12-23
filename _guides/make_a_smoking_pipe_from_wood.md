@@ -8,8 +8,9 @@
         - crafting
     logo: https://yt3.ggpht.com/c-9NNPxIG7_ZsBVpkwBuad_G5jcqmzGPDPk25ajQreJAg9TJnFsJb0xbbyRBqw9xsd17EbxT8rE=s88-c-k-c0x00ffffff-no-rj
     embed: https://www.youtube.com/embed/mX1QqpL_TOE?si=QtrvCkYlMkPIBIIg
+    cover: https://i.ytimg.com/vi/mX1QqpL_TOE/maxresdefault.jpg
     org:
-    auth: Brother Wood
+    author: Brother Wood
     type: video
     cost: 0
     enrolment: false

@@ -9,8 +9,8 @@
     logo: https://goingtoseed.org/cdn/shop/files/GTS-logo.png?v=1669749968&width=500
     cover: https://goingtoseed.org/cdn/shop/products/4551644608896.original_24dda020-8a74-4b27-851d-13025a36804e.jpg?v=1674097826
     org: Going to Seed
-    auth: Dr. James White
-    type: virtual
+    author: Dr. James White
+    type: virtual course
     cost: 0
     enrolment: true
 ---

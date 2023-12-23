@@ -7,6 +7,7 @@
         - natural building
         - building
     logo: https://yt3.ggpht.com/76y0uHTpOnAPfoTyqY9Sq3iBxA-HrUp2n0nc_b3jeRDUc86rVfYfhNiXJS0ee-Yp17sa7u2_pA=s88-c-k-c0x00ffffff-no-rj
+    cover: https://i.ytimg.com/vi/TbdeZKzlV8E/maxresdefault.jpg
     embed: https://www.youtube.com/embed/TbdeZKzlV8E?si=6OhnR_QtcJUvi04V
     org:
     author: Suburban Biology

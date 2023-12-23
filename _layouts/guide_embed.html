@@ -1,16 +1,4 @@
-<!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-<head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta charset="utf-8">
-    <title>{{ page.name }} - {{ site.title }}</title>
-    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
-
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400;0,700;1,400;1,700&family=Caprasimo&display=swap" rel="stylesheet">
-</head>
-<body>
+{% include header.html %}
 
     <section class="page-cover">
         <div class="embed-container">
@@ -19,7 +7,6 @@
     </section>
 
     <div class="container">
-        <a href="/" class="btn-clear">← Back</a>
         <h1>{{page.name}}</h1>
         <small class="mar-b">
             {% for skill in page.skills %}
@@ -44,5 +31,5 @@
         </div>
     </div>
 
-</body>
-</html>
+
+{% include footer.html %}

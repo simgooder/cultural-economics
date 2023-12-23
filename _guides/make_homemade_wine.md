@@ -8,8 +8,9 @@
         - brewing
     logo: https://yt3.googleusercontent.com/ytc/AIf8zZTT_fRkg16LMdSQ-0kNLgKDqcQihQ3cQXNxqBWr7A=s176-c-k-c0x00ffffff-no-rj
     embed: https://www.youtube.com/embed/videoseries?si=kypMXg_W5SDAVBNg&amp;list=PLzVtTPDzFPKFtB45ulnLxFmo0mPdd23wq
+    cover: https://i.ytimg.com/vi/QHL5p9xzyas/maxresdefault.jpg
     org:
-    auth: Rain Country
+    author: Rain Country
     type: playlist
     cost: 0
     enrolment: false

@@ -10,7 +10,7 @@
     cover: https://goingtoseed.org/cdn/shop/products/GivebutterBannerSize_1200x630_600x600px.png?v=1675997818&width=600
     org: Going to Seed
     author: Joseph Lofthouse
-    type: virtual
+    type: virtual course
     cost: 0
     enrolment: true
 ---

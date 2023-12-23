@@ -7,30 +7,27 @@ h1 {
 h1, h2 {
     font-family: var(--font-heading);
     font-weight: 400;
-    color: var(--c-pr-dark);
+    color: $pr-dark;
     letter-spacing: 0.02rem;
 }
 
-// ul {
-//     padding: 0;
-//     list-style-type: none;
-// }
-// li {
-//     margin-bottom: 0.5rem;
-// }
 
-a {
-    color: var(--c-pr-5);
+p a {
+    color: $pr-5;
 }
-a:hover {
-    color: var(--c-pr-4)
+p a:hover {
+    color: $pr-4;
 }
 
 p a,
 small a {
-    color: var(--c-pr-2);
+    color: $pr-2;
 }
 
 .text-center {
     text-align: center;
+}
+
+.meta {
+    font-size: 0.85rem;
 }

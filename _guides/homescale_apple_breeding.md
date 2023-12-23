@@ -8,6 +8,7 @@
         - food production
     logo: https://yt3.googleusercontent.com/ytc/AIf8zZTwDgYi4-amCPE0GX8ohL6c5mRr7CrUowIhoswIdA=s176-c-k-c0x00ffffff-no-rj
     embed: https://www.youtube.com/embed/videoseries?si=KcUbS90AODUSXFnk&amp;list=PL60FnyEY-eJAMOPvU-yyF4JfuW5ocJvC4
+    cover: https://i.ytimg.com/vi_webp/SB5-4Nxej2I/maxresdefault.webp
     org:
     author: SkillCult
     type: playlist

@@ -40,13 +40,21 @@ input, button, textarea, select {
 }
 
 
+
+@import '_vars.scss';
+@import '_icons.scss';
+@import '_layout.scss';
+@import '_typography.scss';
+@import '_elements.scss';
+@import '_media-card.scss';
+
 body {
     --font: -apple-system, '.SFNSText-Regular', 'San Francisco', 'Oxygen', 'Ubuntu', 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', sans-serif;
     --font-body: 'Cabin', serif;
     --font-heading: 'Caprasimo', serif;
 
     --spacing: 1rem;
-    --rad: 0.5rem;
+    --rad: 0.75rem;
     --rad-lg: 1rem;
 
     --bp-xl: 1600px;
@@ -55,27 +63,8 @@ body {
     --bp-sm: 600px;
     --bp-xs: 400px;
 
-    --c-white: #FAF7EE;
-    --c-black: #111;
-    --c-gray1: #ddd;
-    --c-gray2: #B2AF94;
-    --c-gray4: #666;
-    --c-pr-dark: #4F3B42;
-    --c-pr-2: #C16662;
-    --c-pr-3: #EAA548;
-    --c-pr-4: #74B26E;
-    --c-pr-5: #304033;
-
-    --c-border: var(--c-gray2);
-
     font-family: var(--font-body);
-    background-color: var(--c-white);
+    background-color: $white;
 
     font-size: 17px;
 }
-
-
-@import '_layout.scss';
-@import '_typography.scss';
-@import '_elements.scss';
-@import '_media-card.scss';

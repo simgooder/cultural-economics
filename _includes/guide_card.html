@@ -1,0 +1,25 @@
+<li class="card">
+    <figure class="card-img">
+        <img src="{{guide.cover}}" alt="">
+    </figure>
+    <div class="card-content">
+        <div class="card-tag" title="{{guide.type | capitalize}}">
+
+            {% if guide.type == 'video' %}
+            <div class="icon">smart_display</div>
+            {% elsif guide.type == 'guide' %}
+            <div class="icon">article</div>
+            {% elsif guide.type == 'virtual course' %}
+            <div class="icon">school</div>
+            {% elsif guide.type == 'playlist' %}
+            <div class="icon">playlist_play</div>
+            {% endif %}
+        </div>
+
+        <a href="{{ guide.url }}">{{ guide.name }}</a>
+
+        <p class="meta">{{ guide.author }}
+            {% if guide.org %}• {{ guide.org }}{% endif %}
+        </p>
+    </div>
+</li>

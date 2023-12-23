@@ -8,6 +8,7 @@
         - food production
     logo: https://yt3.googleusercontent.com/ytc/AIf8zZSXPXYJ_WQHCrCQ-Qg1A54PjP7aeCQbrYWa-dTe=s176-c-k-c0x00ffffff-no-rj
     embed: https://www.youtube.com/embed/videoseries?si=VV9HjqAaqmvtb5ob&amp;list=PLihFHKqj6Jeo---kvE1lsY-KZfhlnAzMG
+    cover: https://i.ytimg.com/vi/GW3KC4ou3J8/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCXaXAainwfDOs7rHTl6l4B3IQXsw
     org:
     author: Edible Acres
     type: playlist

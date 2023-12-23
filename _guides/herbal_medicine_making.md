@@ -10,7 +10,7 @@
     cover: https://cdn.fs.teachablecdn.com/jgSaWogdRRi9ekp1dOwf
     org: Herbalista
     author: Herbalista Lorna
-    type: virtual
+    type: virtual course
     cost: 0
     enrolment: true
 ---
