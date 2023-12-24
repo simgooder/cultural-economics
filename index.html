@@ -16,7 +16,7 @@ title: "Welcome to Cultural Economics"
   <div class="mar-v">
     <h2>Filter by skill</h2>
     {% for skill in site.skills %}
-      <a class="tag" href="{{skill.url}}">{{ skill.name }}</a>
+      <a class="tag" href="{{site.baseurl}}{{skill.url}}">{{ skill.name }}</a>
     {% endfor %}
   </div>
 

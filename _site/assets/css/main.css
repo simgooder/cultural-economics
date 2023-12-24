@@ -232,8 +232,10 @@ small a {
 .nav a {
   padding-right: 1.5rem;
   text-decoration: none;
-  font-weight: 600;
   color: #D1B78F;
+}
+.nav a:hover {
+  text-decoration: underline;
 }
 
 .nav .logo {
@@ -280,6 +282,7 @@ small a {
 
 .card-img {
   width: 4rem;
+  min-width: 4rem;
   height: 4rem;
   border-radius: var(--rad);
   overflow: hidden;
@@ -358,7 +361,7 @@ small a {
 
 body {
   --font: -apple-system, ".SFNSText-Regular", "San Francisco", "Oxygen", "Ubuntu", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
-  --font-body: "Cabin", serif;
+  --font-body: "Open Sans", serif;
   --font-heading: "Caprasimo", serif;
   --spacing: 1rem;
   --rad: 0.75rem;

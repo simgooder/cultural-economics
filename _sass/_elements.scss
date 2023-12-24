@@ -88,9 +88,13 @@
     a {
         padding-right: 1.5rem;
         text-decoration: none;
-        font-weight: 600;
+        // font-weight: 500;
 
         color: $pr-6;
+
+        &:hover {
+            text-decoration: underline;
+        }
     }
 }
 .nav .logo {
@@ -151,6 +155,7 @@
 
     .card-img {
         width: 4rem;
+        min-width: 4rem;
         height: 4rem;
         border-radius: var(--rad);
         overflow: hidden;

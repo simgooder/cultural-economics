@@ -10,7 +10,7 @@
         <h1>{{page.name}}</h1>
         <small class="mar-b">
             {% for skill in page.skills %}
-                <a href="/skills/{{skill | slugify}}.html" class="tag">
+                <a href="{{site.baseurl}}/skills/{{skill | replace: " ", "_"}}.html" class="tag">
                     {{skill}}
                 </a>
             {% endfor %}
