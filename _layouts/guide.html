@@ -1,31 +1,36 @@
 {% include header.html %}
 
-    <div class="media-card">
-        <figure class="media-img">
-            <img src="{{page.cover}}" alt="{{page.name}}">
-        </figure>
-        <div class="media-content">
-            <h1>{{page.name}}</h1>
-            <small class="mar-b">
-                {% for skill in page.skills %}
-                    <a href="{{site.baseurl}}/skills/{{skill | slugify}}.html" class="tag">
-                        {{skill}}
-                    </a>
-                {% endfor %}
+<div class="media-card">
+    <figure class="media-img">
+        <img src="{{page.cover}}" alt="{{page.name}}">
+    </figure>
+    <div class="media-content">
+        <h1>{{ page.name }}</h1>
+        <small class="mar-b">
+        {% for skill in page.skills %}
+            <a href="{{site.baseurl}}/skills/{{skill | replace: " ", "_"}}.html" class="tag">
+            {{ skill }}
+            </a>
+        {% endfor %}
+        </small>
+
+        <div class="mar-b">
+        <small>Author: {{ page.author }}</small>
+        {% if page.org %}
+            <br>
+            <small>Published by:
+            <a href="{{page.web}}">{{ page.org }}</a>
             </small>
-
-            <div class="mar-b">
-                <small>Author: {{page.author}}</small>
-                {% if page.org %}
-                <br>
-                <small>Published by: <a href="{{page.web}}">{{page.org}}</a></small>
-                {% endif %}
-            </div>
-
-            <p class="mar-b">{{page.desc}}</p>
-
-            <a href="{{page.web}}" target="_blank" class="btn-primary">Check it out →</a>
+        {% endif %}
         </div>
+
+        <p class="mar-b">{{ page.desc }}</p>
+
+        <a
+        href="{{page.web}}"
+        target="_blank"
+        class="btn-primary">Check it out →</a>
     </div>
+</div>
 
 {% include footer.html %}

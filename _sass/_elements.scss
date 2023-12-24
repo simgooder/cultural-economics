@@ -88,9 +88,12 @@
     a {
         padding-right: 1.5rem;
         text-decoration: none;
-        font-weight: 600;
 
         color: $pr-6;
+
+        &:hover {
+            text-decoration: underline;
+        }
     }
 }
 .nav .logo {
