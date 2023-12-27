@@ -1,8 +1,8 @@
 ---
     layout: guide
-    name: How to make soap for the absolute beginner
+    name: Learn to Make Soap at Home
     web: https://www.motherearthnews.com/diy/soap-making-for-the-beginner-part-1/
-    desc: Soap Making for the Beginner
+    desc: Soap Making for the Beginners
     skills:
         - textiles
         - crafting
