@@ -10,5 +10,3 @@ collections:
     output: true
   skills:
     output: true
-
-destination: docs/
