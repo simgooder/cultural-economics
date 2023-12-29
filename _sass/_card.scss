@@ -120,10 +120,14 @@
             visibility: hidden;
             transition: 0.3s ease;
         }
-        .card:hover .card-overlay {
-            opacity: 1;
-            visibility: visible;
+
+        @media (hover: hover) {
+            .card:hover .card-overlay {
+                opacity: 1;
+                visibility: visible;
+            }
         }
+
 
     .card-content {
         margin-left: 0.85rem;

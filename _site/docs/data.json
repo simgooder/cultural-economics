@@ -1,0 +1,359 @@
+[
+
+    {
+        "name": "Build a Rocket Mass Stove",
+        "img": "https://i.ytimg.com/vi/TbdeZKzlV8E/maxresdefault.jpg",
+        "type": "Video",
+        "url": "/guides/build_a_rocket_mass_stove.html",
+        "id": "buildarocketmassstove",
+        "author": "Suburban Biology"
+    },
+
+    {
+        "name": "Butcher a Chicken",
+        "img": "https://www.theprairiehomestead.com/wp-content/uploads/2016/07/packaged-homegrown-chicken.jpg",
+        "type": "Guide",
+        "url": "/guides/butcher_a_chicken.html",
+        "id": "butcherachicken",
+        "author": "Jill Winger",
+         "org": "The Prairie Homestead"
+    },
+
+    {
+        "name": "Convert Lawn to Food Forest",
+        "img": "https://i.ytimg.com/vi/GW3KC4ou3J8/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCXaXAainwfDOs7rHTl6l4B3IQXsw",
+        "type": "Playlist",
+        "url": "/guides/convert_lawn_to_food_forest.html",
+        "id": "convertlawntofoodforest",
+        "author": "Edible Acres"
+    },
+
+    {
+        "name": "Craft Your Own Coonskin Cap",
+        "img": "https://ogden_images.s3.amazonaws.com/www.motherearthnews.com/images/2017/09/22175842/F533441DC53940E3A350D6F757AD0D23.jpg",
+        "type": "Guide",
+        "url": "/guides/craft_your_own_coonskin_cap.html",
+        "id": "craftyourowncoonskincap",
+        "author": "Dennis Biswell",
+         "org": "Mother Earth News"
+    },
+
+    {
+        "name": "Find and Process Wild Clay",
+        "img": "https://i.ytimg.com/vi/B1Z3ldWESwo/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAc1S652GU5-x6tld3LZnGmwf9V6g",
+        "type": "Playlist",
+        "url": "/guides/find_and_process_wild_clay.html",
+        "id": "findandprocesswildclay",
+        "author": "Andy Ward"
+    },
+
+    {
+        "name": "Fire Pottery Outdoors Without a Kiln",
+        "img": "https://i.ytimg.com/vi/pGi06Jv1aAY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCMFz-1bbv4ldl72Qstf0-5onNQDw",
+        "type": "Playlist",
+        "url": "/guides/fire_pottery_outside_without_a_kiln.html",
+        "id": "firepotteryoutdoorswithoutakiln",
+        "author": "Andy Ward"
+    },
+
+    {
+        "name": "Identify and Forage Medicinal Plants",
+        "img": "https://i.ytimg.com/vi/gG_bSB5mgBk/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCZQo9JiFmmNAneDll8t-h9UNoB-Q",
+        "type": "Playlist",
+        "url": "/guides/forage_medicinal_plants.html",
+        "id": "identifyandforagemedicinalplants",
+        "author": "Adam Haritan",
+         "org": "Learn Your Land"
+    },
+
+    {
+        "name": "Grow Mushrooms on Logs, Totems & Stumps",
+        "img": "https://i.shgcdn.com/284ae5bd-35dd-4610-90e3-7d739f622183/-/format/auto/-/preview/3000x3000/-/quality/lighter/",
+        "type": "Guide",
+        "url": "/guides/grow_mushrooms_on_logs_totems_stumps.html",
+        "id": "growmushroomsonlogstotemsstumps",
+        "author": "North Spore",
+         "org": "North Spore"
+    },
+
+    {
+        "name": "Grow nut trees from seed",
+        "img": "https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F13b1073b-8eba-44a4-a33a-66221ac32f07_3024x4032.jpeg",
+        "type": "Guide",
+        "url": "/guides/grow_nut_trees_from_seed.html",
+        "id": "grownuttreesfromseed",
+        "author": "Simon Gooder",
+         "org": "Doomer Optimism"
+    },
+
+    {
+        "name": "Harvest and process pine resin and turpentine",
+        "img": "https://i.ytimg.com/vi/TdkZbEEuwNE/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC4mg1nBAgOgNGtFxRFFtQgU9cDTA",
+        "type": "Playlist",
+        "url": "/guides/harvest_and_process_turpentine_and_pine_resin.html",
+        "id": "harvestandprocesspineresinandturpentine",
+        "author": "Various"
+    },
+
+    {
+        "name": "Herbal Foundations",
+        "img": "https://cdn.fs.teachablecdn.com/38vxenmxTJWoO018aQI3",
+        "type": "Virtual course",
+        "url": "/guides/herbal_foundations.html",
+        "id": "herbalfoundations",
+        "author": "Herbalista Lorna",
+         "org": "Herbalista"
+    },
+
+    {
+        "name": "Herbal Medicine Making",
+        "img": "https://cdn.fs.teachablecdn.com/jgSaWogdRRi9ekp1dOwf",
+        "type": "Virtual course",
+        "url": "/guides/herbal_medicine_making.html",
+        "id": "herbalmedicinemaking",
+        "author": "Herbalista Lorna",
+         "org": "Herbalista"
+    },
+
+    {
+        "name": "Homescale Apple Breeding",
+        "img": "https://i.ytimg.com/vi_webp/SB5-4Nxej2I/maxresdefault.webp",
+        "type": "Playlist",
+        "url": "/guides/homescale_apple_breeding.html",
+        "id": "homescaleapplebreeding",
+        "author": "SkillCult"
+    },
+
+    {
+        "name": "How Microbes Help Local Adaptation",
+        "img": "https://goingtoseed.org/cdn/shop/products/4551644608896.original_24dda020-8a74-4b27-851d-13025a36804e.jpg?v=1674097826",
+        "type": "Virtual course",
+        "url": "/guides/how_microbes_help_local_adaptation.html",
+        "id": "howmicrobeshelplocaladaptation",
+        "author": "Dr. James White",
+         "org": "Going to Seed"
+    },
+
+    {
+        "name": "Learn How to Felt Wool",
+        "img": "https://images.unsplash.com/photo-1675503861565-c5364a67356b?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDJ8fHxlbnwwfHx8fHw%3D",
+        "type": "Guide",
+        "url": "/guides/how_to_felt_wool.html",
+        "id": "learnhowtofeltwool",
+        "author": "Crispina Ffrench",
+         "org": "Mother Earth News"
+    },
+
+    {
+        "name": "How to Make Your Own Moccasins",
+        "img": "https://ogden_images.s3.amazonaws.com/www.motherearthnews.com/images/2017/07/05164513/Moccasins-1-560x840.jpg",
+        "type": "Guide",
+        "url": "/guides/how_to_make_moccasins.html",
+        "id": "howtomakeyourownmoccasins",
+        "author": "Dennis Bizwell",
+         "org": "Mother Earth News"
+    },
+
+    {
+        "name": "Identify Wild Mushrooms",
+        "img": "https://i.ytimg.com/vi/6PNq6paMBXU/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBVq9H2LJO0Pbe3lPVLu_32ZJx0ZA",
+        "type": "Playlist",
+        "url": "/guides/id_wild_mushrooms.html",
+        "id": "identifywildmushrooms",
+        "author": "Adam Haritan",
+         "org": "Learn Your Land"
+    },
+
+    {
+        "name": "Landrace Gardening",
+        "img": "https://goingtoseed.org/cdn/shop/products/GivebutterBannerSize_1200x630_600x600px.png?v=1675997818&width=600",
+        "type": "Virtual course",
+        "url": "/guides/landrace_gardening.html",
+        "id": "landracegardening",
+        "author": "Joseph Lofthouse",
+         "org": "Going to Seed"
+    },
+
+    {
+        "name": "Make a Birch Bark Knife Sheath",
+        "img": "https://ogden_images.s3.amazonaws.com/www.motherearthnews.com/images/2020/06/22220427/092E267724C54B8F971ADE395F96D4BC.jpg",
+        "type": "Guide",
+        "url": "/guides/make_a_birch_bark_knife_sheath.html",
+        "id": "makeabirchbarkknifesheath",
+        "author": "Ben And Penny Hewitt",
+         "org": "Mother Earth News"
+    },
+
+    {
+        "name": "Make a Homemade Broom",
+        "img": "https://images.unsplash.com/photo-1585411821516-4267944c8dcf?q=80&w=2160&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "type": "Guide",
+        "url": "/guides/make_a_homemade_broom.html",
+        "id": "makeahomemadebroom",
+        "author": "Brett McLeod",
+         "org": "Mother Earth News"
+    },
+
+    {
+        "name": "Make a Reusable T-Shirt Produce Bag",
+        "img": "https://ogden_images.s3.amazonaws.com/www.motherearthnews.com/images/2021/04/14143033/11080_175blead-1100x635.jpg",
+        "type": "Guide",
+        "url": "/guides/make_a_produce_bag_from_a_tee_shirt.html",
+        "id": "makeareusabletshirtproducebag",
+        "author": "Jenelle Montilone",
+         "org": "Mother Earth News"
+    },
+
+    {
+        "name": "How To Make Smoking Pipes From Wood",
+        "img": "https://i.ytimg.com/vi/mX1QqpL_TOE/maxresdefault.jpg",
+        "type": "Video",
+        "url": "/guides/make_a_smoking_pipe_from_wood.html",
+        "id": "howtomakesmokingpipesfromwood",
+        "author": "Brother Wood"
+    },
+
+    {
+        "name": "Make a spoon with handtools",
+        "img": "https://i.ytimg.com/vi/krAIHRCx9R0/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgWSguMA8=&rs=AOn4CLCyCs3ks6MqC0H9yJ2U6AT9pl3btg",
+        "type": "Video",
+        "url": "/guides/make_a_spoon_with_hand_tools.html",
+        "id": "makeaspoonwithhandtools",
+        "author": "Paul Sellers"
+    },
+
+    {
+        "name": "Make a Workbench",
+        "img": "https://paulsellers.com/wp-content/uploads/2017/12/BENCH_AdobeRGB300ppi-038-2048x1368.jpg.webp",
+        "type": "Guide",
+        "url": "/guides/make_a_workbench.html",
+        "id": "makeaworkbench",
+        "author": "Paul Sellers"
+    },
+
+    {
+        "name": "Make Biochar and Charcoal",
+        "img": "https://images.unsplash.com/photo-1613897807164-01263a2296e2?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "type": "Guide",
+        "url": "/guides/make_biochar_and_charcoal.html",
+        "id": "makebiocharandcharcoal",
+        "author": "SkillCult"
+    },
+
+    {
+        "name": "Make Fibre from Nettles",
+        "img": "https://images.unsplash.com/photo-1629814164326-e896ca147bda?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "type": "Guide",
+        "url": "/guides/make_fibre_from_nettles.html",
+        "id": "makefibrefromnettles",
+        "author": "Mari Stuart and Make Gather Grow",
+         "org": "Mother Earth News"
+    },
+
+    {
+        "name": "Make Homemade Wine",
+        "img": "https://i.ytimg.com/vi/QHL5p9xzyas/maxresdefault.jpg",
+        "type": "Playlist",
+        "url": "/guides/make_homemade_wine.html",
+        "id": "makehomemadewine",
+        "author": "Rain Country"
+    },
+
+    {
+        "name": "Make Acerglyn Meads",
+        "img": "https://i.ytimg.com/vi_webp/bRJCFUmr8Os/maxresdefault.webp",
+        "type": "Playlist",
+        "url": "/guides/make_mead_from_maple_syrup.html",
+        "id": "makeacerglynmeads",
+        "author": "City Steading Brews"
+    },
+
+    {
+        "name": "Make Outdoor Mushroom Beds",
+        "img": "https://i.shgcdn.com/8b4a276d-8957-4cef-9efa-7cdfc0a719c4/-/format/auto/-/preview/3000x3000/-/quality/lighter/",
+        "type": "Guide",
+        "url": "/guides/make_outdoor_mushroom_beds.html",
+        "id": "makeoutdoormushroombeds",
+        "author": "North Spore",
+         "org": "North Spore"
+    },
+
+    {
+        "name": "Make Soap from Goat Milk",
+        "img": "https://images.unsplash.com/photo-1605265058749-78af14a1be2b?q=80&w=2574&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "type": "Guide",
+        "url": "/guides/make_soap_from_goat_milk.html",
+        "id": "makesoapfromgoatmilk",
+        "author": "Holly Chiantaretto and Hallow Springs Farm",
+         "org": "Mother Earth News"
+    },
+
+    {
+        "name": "Make Woodworking Tools",
+        "img": "https://i.ytimg.com/vi_webp/yTuOtmlRhAI/maxresdefault.webp",
+        "type": "Playlist",
+        "url": "/guides/make_woodworking_tools.html",
+        "id": "makewoodworkingtools",
+        "author": "Paul Sellers"
+    },
+
+    {
+        "name": "Make Your Own Loom",
+        "img": "https://ogden_images.s3.amazonaws.com/www.motherearthnews.com/images/2017/12/02103212/04_makeyourloomfinal-1100x833.jpg",
+        "type": "Guide",
+        "url": "/guides/make_your_own_loom.html",
+        "id": "makeyourownloom",
+        "author": "Andreia Gomes",
+         "org": "Mother Earth News"
+    },
+
+    {
+        "name": "Making Cordage from Natural Materials",
+        "img": "https://images.unsplash.com/photo-1591195852446-b206db137197?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "type": "Guide",
+        "url": "/guides/making_cordage_from_natural_materials.html",
+        "id": "makingcordagefromnaturalmaterials",
+        "author": "Tom Brown and Jr. And Brandt Morgan",
+         "org": "Mother Earth News"
+    },
+
+    {
+        "name": "Sewing techniques, tricks, and troubleshooting",
+        "img": "https://images.unsplash.com/photo-1597484660761-054517d5562c?q=80&w=2328&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "type": "Playlist",
+        "url": "/guides/sewing_tricks_and_techniques.html",
+        "id": "sewingtechniquestricksandtroubleshooting",
+        "author": "Evelyn Wood"
+    },
+
+    {
+        "name": "Learn to Make Soap at Home",
+        "img": "https://images.unsplash.com/photo-1584305574647-0cc949a2bb9f?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "type": "Guide",
+        "url": "/guides/soap_making_for_beginners.html",
+        "id": "learntomakesoapathome",
+        "author": "Sarah Hart Boone",
+         "org": "Mother Earth News"
+    },
+
+    {
+        "name": "Tan Hides & Make Leather",
+        "img": "https://i.ytimg.com/vi_webp/nEcJVruXj-s/maxresdefault.webp",
+        "type": "Playlist",
+        "url": "/guides/tan_hides_and_make_leather.html",
+        "id": "tanhidesmakeleather",
+        "author": "SkillCult"
+    },
+
+    {
+        "name": "Weave a Chair Seat with Reed",
+        "img": "https://ogden_images.s3.amazonaws.com/www.motherearthnews.com/images/2021/07/31104407/ChairSeat-1-630x840.jpg",
+        "type": "Guide",
+        "url": "/guides/weave_a_chair_seat_with_reeds.html",
+        "id": "weaveachairseatwithreed",
+        "author": "Brandy Clements",
+         "org": "Mother Earth News"
+    },
+
+{}
+]

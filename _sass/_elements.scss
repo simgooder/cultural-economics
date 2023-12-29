@@ -86,14 +86,21 @@
     background-color: $pr-dark;
 
     a {
-        padding-right: 1.5rem;
+        // padding-right: 1.5rem;
         text-decoration: none;
 
         color: $pr-6;
 
+        @media screen and (max-width: 600px) {
+            font-size: 1rem;
+        }
+
         &:hover {
             text-decoration: underline;
         }
+    }
+    a:not(:last-of-type) {
+        padding-right: 1.5rem;
     }
 }
 .nav .logo {
