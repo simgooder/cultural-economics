@@ -1,0 +1,6 @@
+// Handles the visibility around the localStorage app functionality.
+
+// Show when active
+[data-lsappsupport]:not([data-lsappsupport="active"]) {
+    display: none;
+}

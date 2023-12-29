@@ -1,6 +1,9 @@
 <li class="card">
     <figure class="card-img">
         <img src="{{guide.cover}}" alt="">
+        <div class="card-overlay" data-lsAppSupport>
+            <div class="icon" data-id="{{guide.name | slugify | replace: '-', ''}}" data-js="favorite" title="Favourite this guide for later">favorite_border</div>
+        </div>
     </figure>
     <div class="card-content">
         <div class="card-tag" title="{{guide.type | capitalize}}">

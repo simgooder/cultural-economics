@@ -46,7 +46,8 @@ input, button, textarea, select {
 @import '_layout.scss';
 @import '_typography.scss';
 @import '_elements.scss';
-@import '_media-card.scss';
+@import '_card.scss';
+@import '_app.scss';
 
 body {
     --font: -apple-system, '.SFNSText-Regular', 'San Francisco', 'Oxygen', 'Ubuntu', 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', sans-serif;

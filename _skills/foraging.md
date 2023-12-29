@@ -1,4 +1,4 @@
 ---
     layout: skills
-    name: Wine
+    name: Foraging
 ---

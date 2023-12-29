@@ -1,0 +1,16 @@
+---
+---
+[
+{% for guide in site.guides %}
+    {
+        "name": "{{guide.name}}",
+        "img": "{{guide.cover}}",
+        "type": "{{guide.type | capitalize}}",
+        "url": "{{site.baseurl}}{{guide.url}}",
+        "id": "{{guide.name | slugify | replace: '-', ''}}",
+        "author": "{{guide.author}}"{% if guide.org %},
+         "org": "{{guide.org}}"{% endif  %}
+    },
+{% endfor %}
+{}
+]
