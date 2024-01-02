@@ -7,6 +7,7 @@
         - textiles
         - crafting
         - wool
+        - fibre arts
     logo: https://ogden_images.s3.amazonaws.com/www.motherearthnews.com/images/2022/03/04200002/men_logo.svg
     cover: https://images.unsplash.com/photo-1675503861565-c5364a67356b?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDJ8fHxlbnwwfHx8fHw%3D
     cover_credit: engin akyurt

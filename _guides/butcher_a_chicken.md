@@ -7,6 +7,7 @@
         - chickens
         - butchery
         - food production
+        - food preparation
     logo: https://www.theprairiehomestead.com/wp-content/themes/ewd-tph/images/logo.svg
     cover: https://www.theprairiehomestead.com/wp-content/uploads/2016/07/packaged-homegrown-chicken.jpg
     org: The Prairie Homestead

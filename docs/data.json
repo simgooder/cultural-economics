@@ -20,6 +20,36 @@
     },
 
     {
+        "name": "Butcher a Hog",
+        "img": "https://images.squarespace-cdn.com/content/v1/62e7a92f066fa3730dcd4604/0c48bc51-0662-4b13-86be-c4fe36a58461/v2-3atxl-c6gda.jpg",
+        "type": "Guide",
+        "url": "/guides/butcher_a_hog.html",
+        "id": "butcherahog",
+        "author": "Texas Real Food",
+         "org": "Texas Real Food"
+    },
+
+    {
+        "name": "Clean and Gut a Fish",
+        "img": "https://coolofthewild.com/wp-content/uploads/2016/01/how-to-gut-a-fish-1.jpg",
+        "type": "Guide",
+        "url": "/guides/clean_and_gut_a_fish.html",
+        "id": "cleanandgutafish",
+        "author": "Cool of the Wild",
+         "org": "Cool of the Wild"
+    },
+
+    {
+        "name": "Make Clothing from Natural Fibres",
+        "img": "https://i.ytimg.com/vi/Vy1tw-7sI7k/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgWChGMA8=&rs=AOn4CLAVaQIPCFnO6ZnsKmvrdsHuHBTzWQ",
+        "type": "Video",
+        "url": "/guides/clothing_from_natural_fibres.html",
+        "id": "makeclothingfromnaturalfibres",
+        "author": "Martin Borden, Sharon Kallis",
+         "org": "EartHand Gleaners Society"
+    },
+
+    {
         "name": "Convert Lawn to Food Forest",
         "img": "https://i.ytimg.com/vi/GW3KC4ou3J8/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCXaXAainwfDOs7rHTl6l4B3IQXsw",
         "type": "Playlist",
@@ -64,6 +94,15 @@
         "id": "identifyandforagemedicinalplants",
         "author": "Adam Haritan",
          "org": "Learn Your Land"
+    },
+
+    {
+        "name": "How to grow flaxseed and transform it into linen",
+        "img": "https://i.ytimg.com/vi_webp/cLOPCAJKeLE/maxresdefault.webp",
+        "type": "Video",
+        "url": "/guides/grow_flax_make_linen.html",
+        "id": "howtogrowflaxseedandtransformitintolinen",
+        "author": "Crowing Hen"
     },
 
     {
@@ -334,6 +373,16 @@
         "id": "learntomakesoapathome",
         "author": "Sarah Hart Boone",
          "org": "Mother Earth News"
+    },
+
+    {
+        "name": "Spin Yarn Using A Drop Spindle",
+        "img": "https://i.ytimg.com/vi/bKAJTKvl0nE/sddefault.jpg",
+        "type": "Video",
+        "url": "/guides/spin_yard_with_drop_spindle.html",
+        "id": "spinyarnusingadropspindle",
+        "author": "Christine MacLeod",
+         "org": "Scribble"
     },
 
     {

@@ -1,4 +1,4 @@
 ---
     layout: skills
-    name: Chickens
+    name: Fibre arts
 ---

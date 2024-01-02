@@ -1,4 +1,4 @@
 ---
     layout: skills
-    name: Woodwork
+    name: Woodworking
 ---
