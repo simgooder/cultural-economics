@@ -20,13 +20,12 @@
     },
 
     {
-        "name": "Butcher a Hog",
-        "img": "https://images.squarespace-cdn.com/content/v1/62e7a92f066fa3730dcd4604/0c48bc51-0662-4b13-86be-c4fe36a58461/v2-3atxl-c6gda.jpg",
-        "type": "Guide",
+        "name": "Butcher a hog",
+        "img": "https://i.ytimg.com/vi_webp/p11Zu-BwL74/maxresdefault.webp",
+        "type": "Video",
         "url": "/guides/butcher_a_hog.html",
         "id": "butcherahog",
-        "author": "Texas Real Food",
-         "org": "Texas Real Food"
+        "author": "Justin Rhodes"
     },
 
     {

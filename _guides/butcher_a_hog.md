@@ -1,18 +1,18 @@
 ---
     layout: guide_embed
-    name: Butcher a Hog
-    web: https://discover.texasrealfood.com/hunting-for-dummies/how-to-butcher-a-hog
-    desc: How to butcher a hog. A comprehensive guide for home processing.
+    name: Butcher a hog
+    web: https://www.youtube.com/watch?v=p11Zu-BwL74
+    desc: This is the 10 Step process of how we butchered our Pigs on farm. A comprehensive how-to from Justin Rhodes.
     skills:
         - butchery
         - food production
         - food preparation
-    logo: https://images.squarespace-cdn.com/content/v1/62e7a92f066fa3730dcd4604/6a4b318b-02ab-49f6-98a7-7ede81603a97/logo+%283%29.png?format=1500w
-    embed: https://www.youtube.com/embed/krAIHRCx9R0?si=2KonkBPPttplmq8t
-    cover: https://images.squarespace-cdn.com/content/v1/62e7a92f066fa3730dcd4604/0c48bc51-0662-4b13-86be-c4fe36a58461/v2-3atxl-c6gda.jpg
-    org: Texas Real Food
-    author: Texas Real Food
-    type: guide
+    logo: https://yt3.ggpht.com/kCvX4GSfJ0xK5477IFAxfLtRtLrbsIvqfaepM74Oh-cJc5jHIDX0uymtj_mUJi1eLfNntM6rOg=s88-c-k-c0x00ffffff-no-rj
+    embed: https://www.youtube.com/embed/p11Zu-BwL74?si=MXwgp1lmDj_jDqVX
+    cover: https://i.ytimg.com/vi_webp/p11Zu-BwL74/maxresdefault.webp
+    org:
+    author: Justin Rhodes
+    type: video
     cost: 0
     enrolment: false
 ---
