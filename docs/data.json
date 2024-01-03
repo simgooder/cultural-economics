@@ -20,12 +20,13 @@
     },
 
     {
-        "name": "Butcher a hog",
-        "img": "https://i.ytimg.com/vi_webp/p11Zu-BwL74/maxresdefault.webp",
+        "name": "Butcher a Hog",
+        "img": "https://yt3.ggpht.com/ytc/AIf8zZQ2pHTt9TncvJ57DKmuqvscqntZYcBU70vjZX3lfg=s88-c-k-c0x00ffffff-no-rj",
         "type": "Video",
         "url": "/guides/butcher_a_hog.html",
         "id": "butcherahog",
-        "author": "Justin Rhodes"
+        "author": "Seth and Scott Perkins",
+         "org": "The Bearded Butchers"
     },
 
     {
@@ -200,6 +201,15 @@
         "id": "identifywildmushrooms",
         "author": "Adam Haritan",
          "org": "Learn Your Land"
+    },
+
+    {
+        "name": "Kill and Process a Hog",
+        "img": "https://i.ytimg.com/vi_webp/p11Zu-BwL74/maxresdefault.webp",
+        "type": "Video",
+        "url": "/guides/kill_and_process_a_hog.html",
+        "id": "killandprocessahog",
+        "author": "Justin Rhodes"
     },
 
     {
